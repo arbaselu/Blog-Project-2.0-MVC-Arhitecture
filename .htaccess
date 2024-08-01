@@ -1,0 +1,12 @@
+# Activarea motorului de rescriere a URL-urilor
+RewriteEngine On
+
+# Excludere pentru accesul direct la fișiere existente
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Excludere pentru accesul direct la directoare existente
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redirecționare a cererilor către index.php
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+

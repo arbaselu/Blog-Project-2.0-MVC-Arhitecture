@@ -1,0 +1,17 @@
+[2024-08-01 12:05:33] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 39: Failed to prepare statement
+[2024-08-01 12:08:23] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:08:49] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:08:57] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:24:14] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:24:30] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:24:34] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:24:40] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:29:00] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:29:12] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 12:31:42] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 13:21:30] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 13:22:14] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 13:22:36] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 13:23:03] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 13:23:30] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
+[2024-08-01 13:28:21] Error in C:\XAMPP\htdocs\app\models\DashbordModel.php at line 38: Failed to prepare statement
